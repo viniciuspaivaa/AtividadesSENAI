@@ -1,0 +1,14 @@
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\bin\Debug\net8.0\ex001.exe
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\bin\Debug\net8.0\ex001.deps.json
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\bin\Debug\net8.0\ex001.runtimeconfig.json
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\bin\Debug\net8.0\ex001.dll
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\bin\Debug\net8.0\ex001.pdb
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.dll
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\refint\ex001.dll
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.pdb
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ex001.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Vinicius\GitHub\AtividadesSENAI\LogicaProgramacao\ex001\obj\Debug\net8.0\ref\ex001.dll
