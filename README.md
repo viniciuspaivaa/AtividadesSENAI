@@ -1,2 +1,2 @@
-# AtividadesSENAI
-Atividades realizadas durante o curso técnico no Senai Ipatinga.
+# Curso Tecnico SENAI
+Atividades realizadas durante o curso técnico Informática para Internet no Senai Ipatinga.
